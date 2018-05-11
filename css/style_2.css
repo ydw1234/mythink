@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main{
+    display: flex;
+    width: 60%;
+    margin: 10px auto;
+    padding: 10px 40px;
+}
+main>header{
+    width: 20%;
+    background-color: blue;
+} 
+main header h1{
+    text-align: center;
+    color: #ff0;
+    margin-top: 20px;
+}
+main article{
+    margin: 20px;
+}
+section h2{
+    line-height: 2.0;
+}
+section .a_1{
+    font-weight: 600;
+    padding-right: 10px;
+}
+section ul{
+    list-style: none;
+    line-height: 2.0;
+}
+section ul li{
+    display: inline-block;
+    margin-right: 30px;
+}
+section div .a_1{
+    margin-top: 10px;
+}
+section div p{
+    line-height: 1.2;
+}

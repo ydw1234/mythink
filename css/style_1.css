@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main{
+    width: 60%;
+    margin: 15px auto;
+    padding: 10px 40px;
+    border: 1px solid #fff
+}
+h1{
+    line-height: 2.0;
+}
+section h2{
+    line-height: 2.0;
+}
+section .a_1{
+    padding-right: 10px;
+    font-weight: 500;
+}
+section ul{
+    list-style: none;
+    line-height: 2.0;
+}
+section ul li{
+    display: inline-block;
+    margin-right: 30px;
+}
+section div .a_1{
+    margin-top: 10px;
+}
+section div p{
+    line-height: 1.0;
+}
